@@ -1,3 +1,3 @@
 # HV
 Hoja de Vida
-El presente proyecto se realizo con el obnjetivo de utulizar y aplicar las herramientas HTML, CSS y JAVASCRIPT.
+El presente proyecto se realizó con el objetivo de utIlizar y aplicar las herramientas HTML, CSS y JAVASCRIPT.
